@@ -16,6 +16,7 @@ h1 {
 }
 
 .mainGlass {
+  cursor: pointer;
   width: 150px;
   height: 370px;
   color: blue;
